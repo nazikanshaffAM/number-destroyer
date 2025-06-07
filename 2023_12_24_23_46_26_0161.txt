@@ -1,0 +1,75 @@
+
+
+Attempt is : 1
+Nazik's life score is: 46
+Presented enemies:
+47
+21
+69
+29
+94
+The evil number that was selected is : 29
+Nazik killed 29
+
+Attempt is : 2
+Nazik's life score is: 75
+Presented enemies:
+24
+40
+59
+47
+95
+The evil number that was selected is : 59
+Nazik killed 59
+
+Attempt is : 3
+Nazik's life score is: 134
+Presented enemies:
+59
+58
+45
+89
+75
+The evil number that was selected is : 89
+Nazik killed 89
+
+Attempt is : 4
+Nazik's life score is: 223
+Presented enemies:
+74
+83
+68
+17
+35
+The evil number that was selected is : 83
+Nazik killed 83
+
+Attempt is : 5
+Nazik's life score is: 306
+Presented enemies:
+54
+72
+46
+54
+50
+The evil number that was selected is : 72
+Nazik killed 72
+
+Attempt is : 6
+Nazik's life score is: 378
+Presented enemies:
+874
+1325
+555
+1455
+1159
+The evil number that was selected is : 555
+555 killed Nazik
+
+
+*** Game status ***
+
+Player name : Nazik
+Total attempts : 6
+Final score is : 378
+Nazik was defeated

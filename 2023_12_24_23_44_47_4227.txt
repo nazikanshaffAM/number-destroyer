@@ -1,0 +1,20 @@
+
+
+Attempt is : 1
+Nazik's life score is: 1
+Presented enemies:
+82
+98
+70
+97
+26
+The evil number that was selected is : 70
+70 killed Nazik
+
+
+*** Game status ***
+
+Player name : Nazik
+Total attempts : 1
+Final score is : 1
+Nazik was defeated

@@ -1,0 +1,19 @@
+
+
+Attempt is : 1
+Nazik's life score is: 15
+Presented enemies:
+99
+17
+56
+24
+33
+No such enemy
+
+
+*** Game status ***
+
+Player name :  Nazik
+Total attempts : 1
+Final score is : 15
+Nazik was defeated
